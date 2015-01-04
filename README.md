@@ -1,7 +1,7 @@
 HelloWorld
 ==========
 
-My first Repository.
+My first Repository @ 20150104.
 
 This is my first commit @ 01/04/15 20:15:15.
 Marks my existence in this world.
