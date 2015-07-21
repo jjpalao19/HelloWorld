@@ -8,5 +8,5 @@ Marks my existence in this world.
 
 Justin Angelo J. Palao @ Blanco Arms Zamora Street
 With Myloves Mae :)
-Me is 23 years old.
+I'm 23 years old.
 Let's declare VARIABLES not WAR...
